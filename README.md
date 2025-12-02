@@ -17,7 +17,7 @@ Los datos se guardan automáticamente usando **LocalStorage**, por lo que la inf
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+-Tenologia Utilizadas-
 
 - **HTML5** – estructura de la app  
 - **CSS3** – diseño minimalista  
@@ -49,5 +49,5 @@ Se crearon:
 
 ---
 
-## 📂 Estructura del Proyecto
+
 
